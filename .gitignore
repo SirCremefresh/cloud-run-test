@@ -39,3 +39,6 @@ ObjectStore/
 
 # Maven
 .mvn/
+
+# Node
+*/**/node_modules/
